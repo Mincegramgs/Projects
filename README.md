@@ -8,9 +8,9 @@
 - <b>HTML/CSS Practice </b>
   - [Practicing Responsive Web Design ](https://github.com/Mincegramgs/Minceingramgs/)
 - <b>Object Oriented Programming
-- Java Projects](https://github.com/Minceingramgs/Minceingramgs) <b><i>(Potentially NSFW)</b></i>
+- Java Projects (https://github.com/Minceingramgs/Minceingramgs) <b><i>(Potentially NSFW)</b></i>
 - <b>Other Projects</b>
-  - (Data structures and Algorithms Demo)
+  - (Data Structures and Algorithms Demo)
 
 <h2> 🤳 Connect with me:</h2>
 
