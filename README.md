@@ -1,33 +1,16 @@
- <h1>Welcome, I'm Melyia! <br/><a href="https://github.com/Minceingramgs">Programmer</a>, <a href="[https://www.linkedin.com/in/melyia-ince-ingram-6570ba220/]">Student</a></h1>
+ <h1>Welcome! <br/></h1>
 
-  <p>I’m currently learning the career essentials of software and practicing the basics of HTML/CSS. I'm hoping to learn more about what programming has to offer to discover my career path!</p>
+  <p>This repo is for my journey with various practices in my Java course.</p>
 
   
-  <h2>👨‍💻 Coding Projects:</h2>
+  <h2>Module 1</h2>
+<p>A simple object-oriented application that uses primitive data types, arithmetic, selection, repetition, and relational operators. The rectangle class shows allows for the computation of area for length x width and the circle class uses radius.  </p>
 
-- <b>HTML/CSS Practice </b>
-  - [Practicing Responsive Web Design ](https://github.com/Mincegramgs/Minceingramgs/)
-- <b>Object Oriented Programming
-- Java Projects (https://github.com/Minceingramgs/Minceingramgs) <b><i>(Potentially NSFW)</b></i>
-- <b>Other Projects</b>
-  - (Data Structures and Algorithms Demo)
+<h2>Module 2</h2>
+<p>Wrote an application that tracks loans based on the needs of a fictional business. The application also calculates the total amount owed at the due date (original loan amount + loan fee) as well as the total amount that the company has loaned out in each category and in total.</p>
+<p>The Loan class includes a loan number, customer's last name, amount of loan, interest rate, and term. The Loan constants include the different terms while the interest varies based on business and personal loans.</p>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Module 3</h2>
+<p>A Java application that divides two values and outputs the result. Prompts the user to enter two integers from the keyboard and divide the first value by the second value. This outlines practice throwing and catching an ArithmeticException when it attempts to divide by zero.</p>
+<p></p>
 
-[<img align="left" alt="Melyia Ince-Ingram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: (https://www.linkedin.com/in/melyia-ince-ingram-6570ba220/)
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
