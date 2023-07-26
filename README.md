@@ -14,3 +14,14 @@
 <p>A Java application that divides two values and outputs the result. Prompts the user to enter two integers from the keyboard and divide the first value by the second value. This outlines practice throwing and catching an ArithmeticException when it attempts to divide by zero.</p>
 <p></p>
 
+<h2>Module 4</h2>
+<p>The objective is to demonstrate the behavior of threads that share data and use synchronized methods. This is a model of a race between a tortoise and a hare. Added an eat method synchronized, and observe the different behavior if the eat method allows the hare to begin eating before the tortoise is done eating.</p>
+<p></p>
+
+<h2>Module 5</h2>
+<p>Demonstrating the Collections interface by sorting an ArrayList using the method Collections.sort. Output the sorted List. Shuffled the list, and outputted the shuffled list. </p>
+<p></p>
+
+<h2>Module 6</h2>
+<p>Practiced generics and demonstrated it working with arrays of at least three different types and parameters.</p>
+<p></p>
